@@ -119,9 +119,3 @@ def anagram(words)
 	 p result
 end
 
-anagram(words)
-If there are any matching keys ie demo, eilv, diet, and enno the word will become the values
-of that key.  the program iterate every single word that has been sorted 
-and will match the keys with the sorted words. If a match is found, the word will
-be thrown in there.
-
